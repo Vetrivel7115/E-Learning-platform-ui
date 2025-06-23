@@ -1,4 +1,3 @@
-# E-Learning-platform-ui
 <!DOCTYPE html>
 <html lang="en">
 <head>
